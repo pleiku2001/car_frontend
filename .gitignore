@@ -1,5 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# 
 
+
+# save order  ---------------
+# user infomation + change infomation + show infomation  ----- change info ---------
+# register ------------
+# button delete -----------
+# cart delete + -------
+
+
+#
 # dependencies
 /node_modules
 /.pnp
