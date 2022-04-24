@@ -246,7 +246,7 @@ function Cart() {
     obj ={...id,...cart}
     console.log(obj)
     try {
-      const res = await axios.post("/order", {
+      const res = await axios.post("https://carappreactjs.herokuapp.com/api/order", {
         ...id,
         ...cart,
       });
